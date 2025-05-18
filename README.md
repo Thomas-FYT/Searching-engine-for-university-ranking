@@ -1,6 +1,7 @@
 # Testnet and live demonstration
 
-Testnet: Deployment on the Sepolia Ethereum testnet 
+Testnet: 
+Deployment on the Sepolia Ethereum testnet 
 
 For live demonstration, the following setup is required:
 1.	Ensure Node.js is installed (download from https://nodejs.org).
