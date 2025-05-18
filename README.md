@@ -10,5 +10,6 @@ npm install express
 node Server.js 
 ```
 This installs Express and starts the server.
+
 3.	Open a browser and visit http://localhost:8000 to access the DApp.
 
